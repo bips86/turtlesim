@@ -163,6 +163,7 @@ catkin_install_python(PROGRAMS
    scripts/listener.py
    scripts/talker.py
    scripts/add_two_ints_server.py
+   scripts/add_two_ints_client.py
    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
  )
 
